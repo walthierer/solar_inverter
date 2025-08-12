@@ -1,1 +1,1 @@
-## How to sse of a digital Multimeter
+## How to use a digital Multimeter
