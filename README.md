@@ -1,41 +1,47 @@
-# Title of your OER Project
+# Solar Inverter
 
-Use this `README.md` document to describe your Open Educational Resource (OER). The headlines / structure of this document should serve you as a suggestion. It is written in markdown syntax. 
-
-## Description of your OER
-Please use different **hierarchy levels of headlines** to structure your document!
+--> Description: What is a solar inverter, and how is it used?
 
 ## Learning Objective 
-Define what the learner will be able to do after completing this training.
-
-For example: _"By the end of this webinar, participants will be able to explain the key principles of effective written communication and apply editing techniques to improve clarity and engagement."_
++ Introduction to electronics and electronic components.
++ Introduction to solar inverters: what they are and how they are used
++ Use of a digital multimeter: how to test electronic components
++ Solar inverter design: How to build your own DIY solar inverter
 
 ## Table of Content
-Structure your training, lesson, or OER into different segments using headings and subheadings. Include these segments in your table of contents. The table of contents provides an organised overview, allowing readers to quickly find and navigate to the sections of interest.
 
-+ [Resource Example](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md)
-    + [Tools & Materials](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#tools--materials)
-    + [Step-by-Step Guide / Instructions](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#step-by-step-guide--instructions)
-+ [Markdown Syntax](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/markdown_syntax.md#markdown-syntax) 
-+ [Licence](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/LICENCE)
-+ [Wiki](https://github.com/ASKnetCommunity/OER_documents_template/wiki/Creating-a-document-with-images-on-GitHub)
++ [Electronics and electronic components]()
++ [Use of a Multimeter](/multimeter.md)
++ [Tools & Materials](/tools_materials.md)
++ [Step-by-Step Guide / Instructions]()
++ [Photo Gallery](/photo_gallery.md)
 
-## Additional information for this template
-Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
+## Training schedule 
+### Day 1
++ Day 1 started with an introduction, the trainees introduced themselves and their interests as well as staff.
++ The participants were briefed about the purpose of the training and the participants were asked to write down their expectations.
++ The participants were introduced to basic tools for repair and were taken through the various types of mobile phones and its parts. 
++ The 16 women trainees were then grouped into 3 groups, each consisting of 5 members and discussed topics such as common mobile phone faults, procedures to consider when doing a repair and steps in troubleshooting and soldering a device. They were given questions to discussed 
 
-For further information about GitHub visit: [ASKnet GitHub Guidance](https://asknet-open-training.github.io/Github-Guidance/) 
+### Day 2
++ A check-in and recap session was conducted to evaluate the level of understanding of the participants about what they have learnt on day one.
++ The students were introduced to what a solar inverter is and how to use a digital multimeter to test electronic components.
++ They were also taken through the steps in designing and building a DIY solar inverter from electronics waste.
+Using sticky notes, the students were asked to give feedback about the training.
 
-This document is written by using markdown syntax. Clicking on the `Pen Icon` will open the Editing mode, which depict the markdown syntax.
 
-For more information about basic writing and formatting syntax please visit [GitHub: formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## The CIC Solar Inverter
 
-## #ASKnet Logo 
-![ASKnet Logo](/images/asknet-logo.png) 
+The project's brief documentation is available to view. This film shows how the inverter was assembled and how it is working.
 
-### Line of Code to integrate images  
-  ```
-     ![describing text for your image](/images/file_name.jpg)
-  ```  
-**Note:**  
-**- Please use images with less file sizes, they should not go beyond 500 KB (= 0.5 MB).** :+1:  
-**- Never use backspaces in your file names! Use `_` or `-` instead to seperate words.**
+[link to youtube video]()
+
+
+## Partners and the Network
+<br>
+
+<p align="center"; vertical-align="center"; width="100%" >
+ <a href="https://asknet.community/"> <img height="80" src="materials/images/asknet-logo.png" alt="ASKnet Logo"/> </a>
+ <a href="https://asknet.community/hubs/CIC/"> <img height="100" src="materials/images/09-CIC-logo.jpg" alt="CIC Logo"/> </a> 
+  <a href="https://www.bmz.de/en"> <img height="100" src="materials/images/BMZ_Logo.svg.png" alt="BMZ Logo"/> </a> 
+</p>
