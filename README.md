@@ -23,8 +23,8 @@ suitable for appliances.
   + [Oscillation](/oscillation.md)
   + [Amplification](/amplification.md)
   + [Step-up Transformation](/transformation.md)
-  + [Circuit Assembly]()
-+ [Testing, Application, Safety Notes]()
+  + [Circuit Assembly](/circuit_assembly.md)
++ [Testing, Application, Safety Notes](/testing_application_safety.md)
 + [Photo Gallery](/photo_gallery.md)
 
 
