@@ -13,9 +13,7 @@ suitable for appliances.
 
 + Introduction to electronics and electronic components.
 + Introduction to solar inverters: what they are and how they are used
-:::warning
-+ (Use of a digital multimeter: how to test electronic components) --> not part of the document! is there any other resource we coud use? like a youtube video or some guide?
-:::
++ (Use of a digital multimeter: how to test electronic components) __--> not part of the document! is there any other resource we coud use? like a youtube video or some guide?__
 + Solar inverter design: How to build your own DIY solar inverter
 
 ## Table of Content
