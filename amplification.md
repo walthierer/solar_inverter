@@ -19,3 +19,5 @@ The signal from the oscillation section has limited power and cannot directly dr
 
 ### Output
 A high-current square wave signal at 50 to 60 Hz.
+
+ Next Step: >> [Transformation](/transformation.md)
