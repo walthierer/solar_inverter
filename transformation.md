@@ -14,3 +14,5 @@ This section converts the low-voltage AC signal (12 V) into high-voltage AC (220
     
 ### Output
 Produces 220 V AC at 50 to 60 Hz, suitable for household appliances.
+
+ Next Step: >> [Assembly the complete circuit](/circuit_assembly.md)
