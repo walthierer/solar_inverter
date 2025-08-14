@@ -16,3 +16,5 @@ The oscillation section generates a square wave AC signal with a frequency of 50
     + Then Connect the base of the transistor Q3 to the negative terminal of Capacitor C2 and the base of Transistor Q1 to the negative terminal of capacitor C1
     + Connect the emitters of both transistors Q1 and Q3 to the GND rail.
     + Tap Signal A from the junction of R1,C1,Q3 and Signal B from junction R3,C2,Q1
+
+  Next Step: >> [Amplification](/amplification.md)

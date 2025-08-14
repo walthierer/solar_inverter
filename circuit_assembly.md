@@ -9,3 +9,5 @@
 2. Connect Amplification Section: Wire the MOSFETs to amplify the signal.
 3. Add Step-Up Transformer: Complete the circuit by connecting the transformer for voltage conversion.
 4. Test and Verify: Ensure proper operation before using the inverter with appliances
+
+ Last Step: >> [Test your Inverter](/testing_application_safety.md)
